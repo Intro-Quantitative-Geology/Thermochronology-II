@@ -1,5 +1,5 @@
 # Thermochronology-II
-In part two of the [exercises for the final two weeks of the course](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/Laboratory-exercise-6-7-overview.pdf) we will combine the thermochronometer age prediction code used last week with an age dataset from the Bhutan Himalaya to quantify the long-term rates of erosion recorded in the thermochronometer data. These results will be presented in detail in your [final report for the course](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/Final-report.md).
+In part two of the [exercises for the final two weeks of the course](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/blob/master/Laboratory-exercise-6-7-overview.pdf) we will combine the thermochronometer age prediction code used last week with an age dataset from the Bhutan Himalaya to quantify the long-term rates of erosion recorded in the thermochronometer data. These results will be presented in detail in your [final report for the course](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/blob/master/Final-report.md).
 
 ## Components
 1. [Laboratory exercise 7]()
@@ -14,8 +14,8 @@ In part two of the [exercises for the final two weeks of the course](https://git
   - [Python/NumPy tutorial, part II](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-II)
   - [Better plotting in Spyder](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion/blob/master/Fixing-Spyder.md)
   - [Formating text strings in Python](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion/blob/master/Format-Python-strings.md)
-  - [Overview slides for Exercises 6 and 7](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/Laboratory-exercise-6-7-overview.pdf)
-  - [Description of final project report](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/Final-report.md)
+  - [Overview slides for Exercises 6 and 7](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/blob/master/Laboratory-exercise-6-7-overview.pdf)
+  - [Description of final project report](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/blob/master/Final-report.md)
 - Scientific journal articles
   - [Some final report references](https://moodle.helsinki.fi/course/view.php?id=12453#section-4)
   - [Google scholar](https://scholar.google.fi/)
