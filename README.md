@@ -2,7 +2,7 @@
 In part two of the [exercises for the final two weeks of the course](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/blob/master/Laboratory-exercise-6-7-overview.pdf) we will combine the thermochronometer age prediction code used last week with an age dataset from the Bhutan Himalaya to quantify the long-term rates of erosion recorded in the thermochronometer data. These results will be presented in detail in your [final report for the course](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/blob/master/Final-report.md).
 
 ## Components
-1. [Laboratory exercise 7]()
+1. [Laboratory exercise 7](https://classroom.github.com/assignment-invitations/e1c35ee43ecb4143e0fa335aafb86821)
 
 ## Resources
 - Course lecture materials
