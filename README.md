@@ -4,6 +4,15 @@ In part two of the [exercises for the final two weeks of the course](https://git
 ## Components
 1. [Laboratory exercise 7](https://classroom.github.com/assignment-invitations/e1c35ee43ecb4143e0fa335aafb86821)
 
+## Plotting predicted ages as horizontal lines
+I suggest that you add horizontal lines to your plots of the thermochronometer data to show the predicted ages you calculate. If you have read in the data file with the values for latitude stored in a variable `latitude`, you can plot a predicted age `predicted_age` as a horizontal line as follows:
+
+```python
+plt.plot([min(latitude), max(latitude)], [predicted_age, predicted_age], 'k-')
+plt.show()
+```
+This will create a horizontal line from the minimum `latitude` to the maximum `latitude` with a vertical value of `predicted_age`. The "trick" here is to put a list into the `plt.plot()` command instead of a variable. Lists are values separated by commas within square brackets (`[ ]`), and here we just give 2 values in the list for the two points defining the ends of the line.
+
 ## Resources
 - Course lecture materials
   - [Basic concepts of thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/11-Basic-concepts-of-thermochronology/11-Basic-concepts-of-thermochronology.pdf)
