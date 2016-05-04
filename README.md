@@ -11,7 +11,7 @@ I suggest that you add horizontal lines to your plots of the thermochronometer d
 plt.plot([min(latitude), max(latitude)], [predicted_age, predicted_age], 'k-')
 plt.show()
 ```
-This will create a horizontal line from the minimum `latitude` to the maximum `latitude` with a vertical value of `predicted_age`. The "trick" here is to put a list into the `plt.plot()` command instead of a variable. Lists are values separated by commas within square brackets (`[ ]`), and here we just give 2 values in the list for the two points defining the ends of the line.
+This will create a horizontal line from the minimum `latitude` to the maximum `latitude` with a vertical value of `predicted_age`. The "trick" here is to put lists into the `plt.plot()` command instead of variables. Lists are values separated by commas within square brackets (`[ ]`), and here we just give 2 values in each list for the *x* and *y* points that define the ends of the line.
 
 ## Resources
 - Course lecture materials
